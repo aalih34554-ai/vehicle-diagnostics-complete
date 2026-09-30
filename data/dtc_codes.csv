@@ -1,0 +1,9 @@
+dtc_code,standard,system_id,description_en,description_ar,severity,initial_checks
+P0300,SAE J2012,SYS-ENG,Random or multiple cylinder misfire detected,تم اكتشاف اختلال إشعال عشوائي أو متعدد,high,فحص شمعات الإشعال والملفات وتسرب الهواء وضغط الوقود
+P0171,SAE J2012,SYS-ENG,System too lean bank 1,خليط فقير في البنك 1,medium,فحص تسرب الهواء وقراءة حساس MAF وضغط الوقود
+P0420,SAE J2012,SYS-ENG,Catalyst system efficiency below threshold bank 1,كفاءة المحفز أقل من الحد,medium,فحص التسريبات وقراءات حساسي O2 قبل وبعد المحفز
+C0035,SAE J2012,SYS-ABS,Left front wheel speed sensor circuit,دائرة حساس سرعة العجلة الأمامية اليسرى,high,فحص الفيشة والأسلاك والحساس وحلقة القراءة
+C0040,SAE J2012,SYS-ABS,Right front wheel speed sensor circuit,دائرة حساس سرعة العجلة الأمامية اليمنى,high,فحص الفيشة والأسلاك والحساس وحلقة القراءة
+U0100,SAE J2012,SYS-ECU,Lost communication with ECM/PCM,فقد الاتصال مع وحدة ECM أو PCM,high,فحص جهد البطارية والأرضي وخطوط CAN والفيوزات
+U0121,SAE J2012,SYS-ABS,Lost communication with ABS control module,فقد الاتصال مع وحدة ABS,high,فحص شبكة CAN وتغذية وحدة ABS
+B10A2,OEM-dependent,SYS-HVAC,HVAC actuator or position feedback fault,خلل مشغل أو تغذية راجعة في نظام التكييف,medium,فحص المشغل والموصل والمعايرة حسب دليل المصنع

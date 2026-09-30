@@ -1,0 +1,5 @@
+system_id,system_name_en,system_name_ar,domain,primary_module,critical_safety
+SYS-ENG,Engine,المحرك,powertrain,ECM,true
+SYS-ABS,Anti-lock Braking System,نظام منع انغلاق المكابح,chassis,ABS-ECU,true
+SYS-ECU,Electronic Control Unit,وحدة التحكم الإلكترونية,electronics,ECU,true
+SYS-HVAC,Heating Ventilation Air Conditioning,التكييف والتهوية,hvac,HAVC-CTRL,false

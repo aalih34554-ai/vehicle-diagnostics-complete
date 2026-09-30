@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vehicle Diagnostics Record",
+  "type": "object",
+  "required": ["vehicle", "year", "system"],
+  "properties": {
+    "vehicle": {"type": "string", "minLength": 1},
+    "year": {"type": "integer", "minimum": 2014, "maximum": 2026},
+    "system": {"enum": ["SYS-ENG", "SYS-ABS", "SYS-ECU", "SYS-HVAC"]},
+    "dtc_codes": {"type": "array", "items": {"type": "string", "pattern": "^[PBCU][0-9A-F]{4}$"}},
+    "engine_code": {"type": ["string", "null"]},
+    "market": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}
