@@ -1,0 +1,5 @@
+diagram_id,system_id,diagram_type,title,signal_path,power_path,safety_note
+DGM-ENG-001,SYS-ENG,basic,Engine sensor loop,حساسات->ECM->مشغلات,بطارية->فيوز->ريليه->ECM,افصل البطارية عند اختبار الدوائر غير المسموح بها
+DGM-ABS-001,SYS-ABS,basic,Wheel speed input,حساسات العجلات->ABS-ECU->شبكة CAN,بطارية->فيوز->ABS-ECU,لا تختبر دائرة الفرامل دون تثبيت المركبة
+DGM-ECU-001,SYS-ECU,basic,ECU communication,وحدات التحكم->CAN-H/CAN-L->بوابة الشبكة,بطارية->فيوز->وحدة التحكم,لا تقصر CAN-H مع CAN-L
+DGM-HVAC-001,SYS-HVAC,basic,Climate control loop,لوحة التحكم->مشغلات ومجسات HVAC,بطارية->فيوز->ريليه->وحدة HVAC,تعامل مع وسيط التبريد وفق اللوائح ومعدات الاسترجاع

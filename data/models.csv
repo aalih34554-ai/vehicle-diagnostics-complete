@@ -1,0 +1,15 @@
+model_id,brand_id,model_name_en,model_name_ar,body_type,year_from,year_to,market,notes
+MD-TYT-001,BR-TYT,Corolla,كورولا,sedan,2014,2026,global,تختلف المحركات والتجهيزات حسب السوق
+MD-TYT-002,BR-TYT,Camry,كامري,sedan,2014,2026,global,تختلف المحركات والتجهيزات حسب السوق
+MD-TYT-003,BR-TYT,Hilux,هايلوكس,pickup,2014,2026,global,تتوفر محركات بنزين وديزل حسب السوق
+MD-HND-001,BR-HND,Civic,سيفيك,sedan,2014,2026,global,تختلف أنظمة ECU حسب الجيل
+MD-HND-002,BR-HND,CR-V,سي آر-في,suv,2014,2026,global,تتوفر نسخ هجينة في سنوات محددة
+MD-NIS-001,BR-NIS,Sentra,سنترا,sedan,2014,2026,global,تحقق من ناقل الحركة قبل التشخيص
+MD-NIS-002,BR-NIS,Patrol,باترول,suv,2014,2026,mena,بيانات السوق الإقليمي
+MD-HYU-001,BR-HYU,Elantra,إلنترا,sedan,2014,2026,global,تختلف أسماء المحركات حسب السوق
+MD-HYU-002,BR-HYU,Tucson,توسان,suv,2014,2026,global,تتطلب نسخة المحرك لتحديد المخطط
+MD-FRD-001,BR-FRD,F-150,إف-150,pickup,2014,2026,north-america,تختلف الشبكة الكهربائية حسب التجهيز
+MD-FRD-002,BR-FRD,Focus,فوكَس,hatchback,2014,2018,global,نهاية الإنتاج تختلف حسب السوق
+MD-VOL-001,BR-VOL,Golf,جولف,hatchback,2014,2026,global,تأكد من منصة المركبة
+MD-BMW-001,BR-BMW,3 Series,الفئة الثالثة,sedan,2014,2026,global,استخدم رقم الهيكل لتحديد الوحدة
+MD-KIA-001,BR-KIA,Sportage,سبورتاج,suv,2014,2026,global,تختلف وحدات ABS وECU حسب المحرك

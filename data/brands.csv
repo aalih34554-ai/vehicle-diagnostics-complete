@@ -1,0 +1,11 @@
+brand_id,brand_name_en,brand_name_ar,country,active_from,active_to
+BR-TYT,Toyota,تويوتا,Japan,1937,
+BR-HND,Honda,هوندا,Japan,1948,
+BR-NIS,Nissan,نيسان,Japan,1933,
+BR-HYU,Hyundai,هيونداي,South Korea,1967,
+BR-FRD,Ford,فورد,United States,1903,
+BR-VOL,Volkswagen,فولكس فاجن,Germany,1937,
+BR-BMW,BMW,بي إم دبليو,Germany,1916,
+BR-MRC,Mercedes-Benz,مرسيدس بنز,Germany,1926,
+BR-KIA,Kia,كيا,South Korea,1944,
+BR-CHV,Chevrolet,شيفروليه,United States,1911,
