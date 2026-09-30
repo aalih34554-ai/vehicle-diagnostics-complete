@@ -1,7 +1,7 @@
 model_id,brand_id,model_name_en,model_name_ar,body_type,year_from,year_to,market,notes
 MD-TYT-001,BR-TYT,Corolla,كورولا,sedan,2014,2026,global,تختلف المحركات والتجهيزات حسب السوق
 MD-TYT-002,BR-TYT,Camry,كامري,sedan,2014,2026,global,تختلف المحركات والتجهيزات حسب السوق
-MD-TYT-003,BR-TYT,Hilux,هايلكس,pickup,2014,2026,global,تتوفر محركات بنزين وديزل حسب السوق
+MD-TYT-003,BR-TYT,Hilux,هايلوكس,pickup,2014,2026,global,تتوفر محركات بنزين وديزل حسب السوق
 MD-HND-001,BR-HND,Civic,سيفيك,sedan,2014,2026,global,تختلف أنظمة ECU حسب الجيل
 MD-HND-002,BR-HND,CR-V,سي آر-في,suv,2014,2026,global,تتوفر نسخ هجينة في سنوات محددة
 MD-NIS-001,BR-NIS,Sentra,سنترا,sedan,2014,2026,global,تحقق من ناقل الحركة قبل التشخيص
